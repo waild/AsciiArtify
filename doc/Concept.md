@@ -16,3 +16,9 @@ minikube vs kind vs k3d comparison
 | Cluster tear-down time              | 2,616 s                             | 0,805 s                             | 0,700 s                             |
 | Cluster resource consumptions(CPUs=8, Memory=15681 MiB)| CPU: ~20% Memory Usage: ~680.8 MiB | CPU: ~20% Memory Usage: ~581 MiB |CPU: ~20% Memory Usage: ~502 MiB|
 | Conclusion                          | Ideal for beginners                 | For developers who want to quickly create clusters using Docker| Best for resource-constrained environments|
+
+
+**For a startup looking for an optimal balance between functionality and ease of use, k3d is recommended. This will ensure rapid deployment, efficient use of resources and scalability.**
+
+
+![Image](.data/k3dDemo.gif)
