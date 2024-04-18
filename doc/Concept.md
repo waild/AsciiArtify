@@ -21,4 +21,4 @@ minikube vs kind vs k3d comparison
 **For a startup looking for an optimal balance between functionality and ease of use, k3d is recommended. This will ensure rapid deployment, efficient use of resources and scalability.**
 
 
-![Image](../data/k3dDemo.gif)
+![Image](../.data/k3dDemo.gif)
